@@ -1,3 +1,4 @@
+#this is simple shell scripting  
 if [ -z $1 ]
 then
     rental="*** unknown vehicle ***"
@@ -7,6 +8,7 @@ then
 	rental=$1 
 fi
 
+#pass car van jeep bicycle
 
 case $rental in
 	"car")echo "for $rental RS.20 per/km";;
