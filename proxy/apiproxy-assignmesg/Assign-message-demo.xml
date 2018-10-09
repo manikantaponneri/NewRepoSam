@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Assign-message-demo">
+    <Basepaths>/v1/assign-message-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1536303962755</CreatedAt>
+    <CreatedBy>pm00507324@techmahindra.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Assign-message-demo</DisplayName>
+    <LastModifiedAt>1536304234591</LastModifiedAt>
+    <LastModifiedBy>pm00507324@techmahindra.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:40a151f400d36f3468d0d387d20a3639b479cd7d6e954a2c210e4f9943d1c5e9b385406f94d6cf39fddcfe1eb1d971487c51db2beee1cbf8e169fb8e2b00c90f</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
