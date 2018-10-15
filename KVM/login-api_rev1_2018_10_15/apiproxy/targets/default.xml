@@ -13,6 +13,6 @@
     <Flows/>
     <HTTPTargetConnection>
         <Properties/>
-        <URL>http://httpbin.org/get</URL>
+        <URL>http://httpbin.org/post</URL>
     </HTTPTargetConnection>
 </TargetEndpoint>
