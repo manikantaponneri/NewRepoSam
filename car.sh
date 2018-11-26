@@ -12,7 +12,8 @@ fi
 
 case $rental in
 	"car")echo "for $rental RS.20 per/km";;
-	"van")echo "for $rental RS.10 per/km";;
+	"bus")echo "for $rental RS.18 per/km";;
+    "van")echo "for $rental RS.10 per/km";;
 	"jeep")echo "for $rental RS.5 per/km";;
 	"bicycle")echo "for $rental RS.20 paise per/km";;
 	*)echo  "sorry ,i can not get a $rental for you....all are booked";;
